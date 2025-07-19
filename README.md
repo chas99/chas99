@@ -22,13 +22,13 @@
 
 - [Top Down](https://w
 - [Detective Treasure Hunt](https://w
-- [FPS](https://w
+- [FPS w/ AI](https://w
 
 <h2>📃 Certifications:</h2>
 - Google Project Management
 - The National Cyber League Fall 2023 Certificate of Completion
-- [Sophia Learning Web Development
-- [Python Certificate
+- Web Development
+- Python Certificate
 
 <h2> 🤳 Connect with me:</h2>
 
