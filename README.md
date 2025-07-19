@@ -28,7 +28,7 @@
 - Google Project Management
 - The National Cyber League Fall 2023 Certificate of Completion
 - Web Development
-- Python Certificate
+- Python
 
 <h2> 🤳 Connect with me:</h2>
 
