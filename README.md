@@ -20,7 +20,6 @@
 <h2>🎮 Game Development Projects:</h2>
 
 - [Top Down](https://w
-- [Detective Treasure Hunt](https://w
 - [FPS w/ AI](https://w
 
 <h2>📃 Certifications:</h2>
