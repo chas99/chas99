@@ -17,7 +17,7 @@
 <h2>🎮 Game Development Projects:</h2>
 
 - [Top Down](https://github.com/chas99/TopDown2D)
-- [FPS w/ AI](https://w
+- [FPS w/ AI](https://github.com/chas99/FPS-with-AI)
 
 <h2>📃 Certifications:</h2>
 - Google Project Management
