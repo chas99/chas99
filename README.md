@@ -7,7 +7,7 @@
   <b><i></b></i>
 
 - <b>Holiday Lights</b>
-  - [Holiday Lights](https://github.com/chas99/Robot-Car)
+  - [Holiday Lights](https://github.com/chas99/HolidayLights)
   
 - <b>Gpa Calculator in C++</b>
   - [GPA Calculator](https://github.com/chas99/GpaCalculator)
