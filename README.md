@@ -5,6 +5,10 @@
 - <b>Automated Robot Car (Current Project)</b>
   - [Robot Car](https://github.com/chas99/Robot-Car)
   <b><i></b></i>
+
+- <b>Holiday Lights</b>
+  - [Holiday Lights](https://github.com/chas99/Robot-Car)
+  
 - <b>Gpa Calculator in C++</b>
   - [GPA Calculator](https://github.com/chas99/GpaCalculator)
     
