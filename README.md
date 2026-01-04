@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chas! <br/><a href="https://github.com/chas99">Programmer</a>, <a href="https://www.behance.net/chideraa">Designer</a>, <a href="https://www.linkedin.com/in/chasazubuike/">Tech Professional</a></h1>
+<h1>Hi, I'm Chas! <br/><a href="https://github.com/chas99">Programmer</a>, <a href="https://www.linkedin.com/in/chasazubuike/"> & Tech Professional</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
