@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Automated Robot Car (Current Project)</b>
+- <b>Automated Robot Car</b>
   - [Robot Car](https://github.com/chas99/Robot-Car)
   <b><i></b></i>
 
