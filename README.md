@@ -21,7 +21,9 @@
     - [Holiday Lights](https://github.com/chas99/HolidayLights)
 
 - <b> BCD 7 Segment </b>
-  -  [BCD 7 Segment] ()
+  -  [BCD 7 Segment] (https://github.com/chas99/BCD-7-Segment)
+
+
 
 <h2>🎮 Game Development Projects:</h2>
 
