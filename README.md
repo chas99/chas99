@@ -14,15 +14,20 @@
 
 - <b>GuessingGame.cpp</b>
   - [Guessing Game](https://github.com/chas99/Guessing-game)
+ 
+<h2>👨‍💻 Electrical Engineering Projects:</h2>
+
+  - <b>Holiday Lights </b>
+  - [Holiday Lights](https://github.com/chas99/HolidayLights)
+
+- <b> BCD 7 Segment </b>
+  -  [BCD 7 Segment] ()
 
 <h2>🎮 Game Development Projects:</h2>
 
 - [Top Down](https://github.com/chas99/TopDown2D)
 - [FPS w/ AI](https://github.com/chas99/FPS-with-AI)
 
-<h2>👨‍💻 Electrical Engineering Projects:</h2>
-
-  - [Holiday Lights](https://github.com/chas99/HolidayLights)
 
 
 <h2>📃 Certifications:</h2>
