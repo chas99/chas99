@@ -20,8 +20,8 @@
   - <b>Holiday Lights </b>
     - [Holiday Lights](https://github.com/chas99/HolidayLights)
 
-
-  -  [BCD 7 Segment] (https://github.com/chas99/BCD-7-Segment)
+- <b> BCD 7 Segment </b>
+  -  (https://github.com/chas99/BCD-7-Segment)
 
 
 
