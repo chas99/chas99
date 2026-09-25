@@ -18,7 +18,7 @@
 <h2>👨‍💻 Electrical Engineering Projects:</h2>
 
   - <b>Holiday Lights </b>
-  - [Holiday Lights](https://github.com/chas99/HolidayLights)
+    - [Holiday Lights](https://github.com/chas99/HolidayLights)
 
 - <b> BCD 7 Segment </b>
   -  [BCD 7 Segment] ()
