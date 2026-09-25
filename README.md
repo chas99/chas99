@@ -5,9 +5,6 @@
 - <b>Automated Robot Car</b>
   - [Robot Car](https://github.com/chas99/Robot-Car)
   <b><i></b></i>
-
-- <b>Holiday Lights</b>
-  - [Holiday Lights](https://github.com/chas99/HolidayLights)
   
 - <b>Gpa Calculator in C++</b>
   - [GPA Calculator](https://github.com/chas99/GpaCalculator)
@@ -22,6 +19,11 @@
 
 - [Top Down](https://github.com/chas99/TopDown2D)
 - [FPS w/ AI](https://github.com/chas99/FPS-with-AI)
+
+<h2>👨‍💻 Electrical Engineering Projects:</h2>
+
+  - [Holiday Lights](https://github.com/chas99/HolidayLights)
+
 
 <h2>📃 Certifications:</h2>
 - Google Project Management
